@@ -12,3 +12,25 @@ Obeying traffic signals (i.e. stop signs)
 
 The ideal AGV will minimize the time of delivery.
 
+Challenge:
+Level 1: keyboard control with safety features
+Collision detection with wall – robot should stop and back up
+
+Level 2: keyboard control with awareness
+Stop sign detection – describe your strategy and then demonstrate
+
+Level 3: autonomous control and static obstacles
+No keyboard operation
+Collision and stop sign detection
+Record fastest delivery time
+
+Level 4: autonomous control and dynamic obstacles
+Moving robot (NPC)
+Describe your strategy and then demonstrate
+Record fastest delivery time
+
+Level 5: multi-agent/fleet control
+2 AGVs + moving robot (NPC)
+
+
+
